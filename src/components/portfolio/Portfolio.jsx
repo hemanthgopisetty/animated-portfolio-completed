@@ -13,7 +13,7 @@ const items = [
     id: 2,
     title: "Next.js Blog",
     img: "https://images.pexels.com/photos/18023772/pexels-photo-18023772/free-photo-of-close-up-of-a-person-holding-a-wristwatch.jpeg?auto=compress&cs=tinysrgb&w=1600&lazy=load",
-    desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ab id ad nesciunt quo aut corporis modi? Voluptate, quos sunt dolorum facilis, id eum sequi placeat accusantium saepe eos laborum.",
+    desc: "Next.js is a cutting-edge framework for building dynamic and responsive blogs that stands out for its exceptional performance and developer-friendly features. With Next.js, creating a blog has never been easier. It seamlessly combines the best of React, server-side rendering, and static site generation, offering a perfect balance between interactivity and speed. This framework allows bloggers and developers to build SEO-friendly, lightning-fast websites that provide an optimal user experience. Its hot module reloading, automatic code splitting, and easy server-side rendering give bloggers the tools they need to focus on creating engaging content rather than grappling with technical complexities. Whether you're a seasoned developer or a blogger looking to share your thoughts with the world, Next.js is a fantastic choice for building a high-quality, feature-rich blog",
   },
   {
     id: 3,
