@@ -60,12 +60,11 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Decentralized Personal Health Records</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          With the rise of blockchain technology, creating a decentralized personal health record system can enable patients to have complete control over their medical data.
+Implementation: Utilize blockchain to develop a decentralized application  where patients can securely store their medical data. Integrate with IoT devices to automatically update health metrics. Smart contracts can be used to give temporary access to doctors.
+Benefits: Enhanced privacy, easy data portability, reduced data breaches, and empowerment of patients.
           </p>
           <button>Go</button>
         </motion.div>
@@ -73,12 +72,11 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>AI-Powered Urban Farming Systems</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          As urbanization increases, the need for local and sustainable food sources becomes paramount. Using AI to optimize urban farming can lead to higher yields and better resource management.
+Implementation: Design an AI system to monitor urban farm parameters like humidity, light, pH levels, etc. Using Machine Learning, the system can predict the best conditions for crops and adjust environmental factors automatically.
+Benefits: Increased crop yield, sustainability, reduced resource wastage, and promotion of urban farming.
           </p>
           <button>Go</button>
         </motion.div>
@@ -86,12 +84,11 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Personalized Education Platforms using Augmented Reality (AR)</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Traditional education is often one-size-fits-all. With AR, personalized education experiences can be crafted to fit the individual learning styles of students.
+Implementation: Develop an AR application tailored for educational content. The system will adapt content presentation based on a student's learning speed, preferred content type (visual, auditory, kinesthetic), and interest areas.
+Benefits: Enhanced student engagement, better knowledge retention, and a shift from rote learning to experiential learning.
           </p>
           <button>Go</button>
         </motion.div>
@@ -99,12 +96,11 @@ const Services = () => {
           className="box"
           whileHover={{ background: "lightgray", color: "black" }}
         >
-          <h2>Branding</h2>
+          <h2>Sustainable Packaging Solutions using Bio-materials</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-            libero enim nisi aliquam consectetur expedita magni eius ex corrupti
-            animi! Ad nam pariatur assumenda quae mollitia libero repellat
-            explicabo maiores?
+          Plastic pollution is a significant environmental concern. Biodegradable packaging solutions can be a game-changer.
+Implementation: Research bio-materials, like mycelium (fungus roots) or algae-based materials, that can be molded into packaging shapes. The goal is to create packaging that's not just biodegradable, but also has a minimal carbon footprint during production.
+Benefits: Reduction in plastic pollution, promotion of sustainable practices, and potential reduction in production costs in the long run.
           </p>
           <button>Go</button>
         </motion.div>
